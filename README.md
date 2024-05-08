@@ -19,7 +19,10 @@ This Python script detects the color of an object in real-time using OpenCV. It 
 
 ## Result
 
-You can include a screenshot or example image here to demonstrate how the color detection works.
+
+https://github.com/meetagarwal/Real-Time-Color-Detection/assets/92011572/1d395c49-b603-4084-9ff4-ea11293a3c9d
+
+
 
 ## Contributing
 
